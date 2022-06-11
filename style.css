@@ -1,0 +1,14 @@
+/* *{margin: 0; padding: 0;}
+
+img{width: 100%;height: 100%;object-fit: cover;}
+
+body{
+    font-family: 'Grape Nuts', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    background-color: #000000;
+} */
